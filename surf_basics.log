@@ -1,0 +1,3158 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/orcskyrt" not found.
+Can't load skybox file skybox/OrcSky to build the default cubemap!
+Can't load skybox file skybox/OrcSky to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (2695 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 6 texinfos to 4
+Reduced 2 texdatas to 2 (45 bytes to 45)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 906 portalclusters
+1762 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 820836
+Average clusters visible: 906
+Building PAS...
+Average clusters audible: 906
+visdatasize:213820  compressed from 217440
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (2695 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 6 texinfos to 4
+Reduced 2 texdatas to 2 (45 bytes to 45)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 906 portalclusters
+1762 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 820836
+Average clusters visible: 906
+Building PAS...
+Average clusters audible: 906
+visdatasize:213820  compressed from 217440
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (2695 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7 texinfos to 5
+Reduced 3 texdatas to 3 (72 bytes to 72)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 906 portalclusters
+1762 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 820836
+Average clusters visible: 906
+Building PAS...
+Average clusters audible: 906
+visdatasize:213820  compressed from 217440
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (7020 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 48 texinfos to 33
+Reduced 8 texdatas to 8 (169 bytes to 169)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 920 portalclusters
+1818 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 2 visible clusters (0.00%)
+Total clusters visible: 846372
+Average clusters visible: 919
+Building PAS...
+Average clusters audible: 920
+visdatasize:218964  compressed from 220800
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (7020 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 48 texinfos to 33
+Reduced 8 texdatas to 8 (169 bytes to 169)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 920 portalclusters
+1818 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 2 visible clusters (0.00%)
+Total clusters visible: 846372
+Average clusters visible: 919
+Building PAS...
+Average clusters audible: 920
+visdatasize:218964  compressed from 220800
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (7180 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 51 texinfos to 35
+Reduced 8 texdatas to 8 (169 bytes to 169)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (7180 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 51 texinfos to 35
+Reduced 8 texdatas to 8 (169 bytes to 169)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (7181 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 51 texinfos to 35
+Reduced 8 texdatas to 8 (169 bytes to 169)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (7082 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 51 texinfos to 35
+Reduced 8 texdatas to 8 (168 bytes to 168)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 922 portalclusters
+1832 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 850070
+Average clusters visible: 921
+Building PAS...
+Average clusters audible: 922
+visdatasize:221284  compressed from 221280
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6690 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 48 texinfos to 34
+Reduced 7 texdatas to 7 (147 bytes to 147)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (7082 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 51 texinfos to 35
+Reduced 8 texdatas to 8 (168 bytes to 168)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 922 portalclusters
+1834 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 850070
+Average clusters visible: 921
+Building PAS...
+Average clusters audible: 922
+visdatasize:221284  compressed from 221280
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6528 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 45 texinfos to 32
+Reduced 8 texdatas to 8 (168 bytes to 168)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 922 portalclusters
+1834 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 850070
+Average clusters visible: 921
+Building PAS...
+Average clusters audible: 922
+visdatasize:221284  compressed from 221280
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5974 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 39 texinfos to 29
+Reduced 8 texdatas to 8 (168 bytes to 168)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 922 portalclusters
+1834 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 850070
+Average clusters visible: 921
+Building PAS...
+Average clusters audible: 922
+visdatasize:221284  compressed from 221280
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (7082 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 51 texinfos to 35
+Reduced 8 texdatas to 8 (168 bytes to 168)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 922 portalclusters
+1832 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 850058
+Average clusters visible: 921
+Building PAS...
+Average clusters audible: 922
+visdatasize:221284  compressed from 221280
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5582 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 36 texinfos to 28
+Reduced 7 texdatas to 7 (147 bytes to 147)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6136 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 42 texinfos to 31
+Reduced 7 texdatas to 7 (147 bytes to 147)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6690 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 48 texinfos to 34
+Reduced 7 texdatas to 7 (147 bytes to 147)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6690 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 48 texinfos to 34
+Reduced 7 texdatas to 7 (147 bytes to 147)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6690 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 48 texinfos to 34
+Reduced 7 texdatas to 7 (147 bytes to 147)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6690 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 48 texinfos to 34
+Reduced 7 texdatas to 7 (147 bytes to 147)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (7181 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 51 texinfos to 35
+Reduced 8 texdatas to 8 (169 bytes to 169)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (7181 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 51 texinfos to 35
+Reduced 8 texdatas to 8 (169 bytes to 169)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (7181 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 51 texinfos to 35
+Reduced 8 texdatas to 8 (169 bytes to 169)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (7181 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 51 texinfos to 35
+Reduced 8 texdatas to 8 (169 bytes to 169)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (7181 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 51 texinfos to 35
+Reduced 8 texdatas to 8 (169 bytes to 169)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (8063 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 57 texinfos to 37
+Reduced 8 texdatas to 8 (169 bytes to 169)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (8063 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 57 texinfos to 37
+Reduced 8 texdatas to 8 (169 bytes to 169)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (8063 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 57 texinfos to 37
+Reduced 8 texdatas to 8 (169 bytes to 169)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5582 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 36 texinfos to 28
+Reduced 7 texdatas to 7 (147 bytes to 147)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5582 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 36 texinfos to 28
+Reduced 7 texdatas to 7 (147 bytes to 147)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5582 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 36 texinfos to 28
+Reduced 7 texdatas to 7 (147 bytes to 147)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5582 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 36 texinfos to 28
+Reduced 7 texdatas to 7 (147 bytes to 147)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6627 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 45 texinfos to 32
+Reduced 8 texdatas to 8 (169 bytes to 169)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6627 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 45 texinfos to 32
+Reduced 8 texdatas to 8 (169 bytes to 169)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (7509 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 51 texinfos to 34
+Reduced 8 texdatas to 8 (169 bytes to 169)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5582 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 36 texinfos to 28
+Reduced 7 texdatas to 7 (147 bytes to 147)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5582 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 36 texinfos to 28
+Reduced 7 texdatas to 7 (147 bytes to 147)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5582 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 36 texinfos to 28
+Reduced 7 texdatas to 7 (147 bytes to 147)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5582 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 36 texinfos to 28
+Reduced 7 texdatas to 7 (147 bytes to 147)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5582 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 36 texinfos to 28
+Reduced 7 texdatas to 7 (147 bytes to 147)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5582 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 36 texinfos to 28
+Reduced 7 texdatas to 7 (147 bytes to 147)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (7181 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 48 texinfos to 32
+Reduced 8 texdatas to 8 (169 bytes to 169)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (7181 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 48 texinfos to 32
+Reduced 8 texdatas to 8 (169 bytes to 169)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6627 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 45 texinfos to 32
+Reduced 8 texdatas to 8 (169 bytes to 169)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6627 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 45 texinfos to 32
+Reduced 8 texdatas to 8 (169 bytes to 169)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6627 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 45 texinfos to 32
+Reduced 8 texdatas to 8 (169 bytes to 169)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6627 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 45 texinfos to 32
+Reduced 8 texdatas to 8 (169 bytes to 169)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6627 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 45 texinfos to 32
+Reduced 8 texdatas to 8 (169 bytes to 169)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6627 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 45 texinfos to 32
+Reduced 8 texdatas to 8 (169 bytes to 169)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+material "skybox/interstellarrt" not found.
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Can't load skybox file skybox/interstellar to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6627 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 45 texinfos to 32
+Reduced 8 texdatas to 8 (169 bytes to 169)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/interstellar*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/interstellar*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6627 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 45 texinfos to 32
+Reduced 8 texdatas to 8 (169 bytes to 169)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+Wrote ZIP buffer, estimated size 86968, actual size 86754
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/interstellar*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/interstellar*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6627 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 45 texinfos to 32
+Reduced 8 texdatas to 8 (169 bytes to 169)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+Wrote ZIP buffer, estimated size 86968, actual size 86754
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/interstellar*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/interstellar*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6627 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 45 texinfos to 32
+Reduced 8 texdatas to 8 (169 bytes to 169)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+Wrote ZIP buffer, estimated size 86968, actual size 86754
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/interstellar*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/interstellar*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6627 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 45 texinfos to 32
+Reduced 8 texdatas to 8 (169 bytes to 169)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+Wrote ZIP buffer, estimated size 86968, actual size 86754
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/interstellar*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/interstellar*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6627 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 45 texinfos to 32
+Reduced 8 texdatas to 8 (169 bytes to 169)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+Wrote ZIP buffer, estimated size 86968, actual size 86754
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/interstellar*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/interstellar*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6628 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 45 texinfos to 32
+Reduced 8 texdatas to 8 (169 bytes to 169)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+Wrote ZIP buffer, estimated size 86968, actual size 86754
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/interstellar*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/interstellar*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6627 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 45 texinfos to 32
+Reduced 8 texdatas to 8 (169 bytes to 169)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+Wrote ZIP buffer, estimated size 86968, actual size 86754
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/interstellar*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/interstellar*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6267 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 45 texinfos to 30
+Reduced 8 texdatas to 8 (170 bytes to 170)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+Wrote ZIP buffer, estimated size 86968, actual size 86754
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 916 portalclusters
+1804 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 839030
+Average clusters visible: 915
+Building PAS...
+Average clusters audible: 916
+visdatasize:218012  compressed from 219840
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/interstellar*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/interstellar*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6267 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 45 texinfos to 30
+Reduced 8 texdatas to 8 (170 bytes to 170)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+Wrote ZIP buffer, estimated size 86968, actual size 86754
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 914 portalclusters
+1796 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 835374
+Average clusters visible: 913
+Building PAS...
+Average clusters audible: 914
+visdatasize:217536  compressed from 219360
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/interstellar*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/interstellar*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6267 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 45 texinfos to 30
+Reduced 8 texdatas to 8 (170 bytes to 170)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+Wrote ZIP buffer, estimated size 86968, actual size 86754
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 914 portalclusters
+1796 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 835374
+Average clusters visible: 913
+Building PAS...
+Average clusters audible: 914
+visdatasize:217536  compressed from 219360
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/interstellar*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/interstellar*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6267 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 45 texinfos to 30
+Reduced 8 texdatas to 8 (170 bytes to 170)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+Wrote ZIP buffer, estimated size 86968, actual size 86754
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 914 portalclusters
+1796 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 835374
+Average clusters visible: 913
+Building PAS...
+Average clusters audible: 914
+visdatasize:217536  compressed from 219360
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_basics\surf_basics.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_basics\surf_basics.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/interstellar*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/interstellar*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6267 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 45 texinfos to 30
+Reduced 8 texdatas to 8 (170 bytes to 170)
+Writing C:\mapsrc\surf_basics\surf_basics.bsp
+Wrote ZIP buffer, estimated size 86968, actual size 86754
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_basics\surf_basics.bsp
+reading c:\mapsrc\surf_basics\surf_basics.prt
+ 914 portalclusters
+1796 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 835374
+Average clusters visible: 913
+Building PAS...
+Average clusters audible: 914
+visdatasize:217536  compressed from 219360
+writing c:\mapsrc\surf_basics\surf_basics.bsp
+0 seconds elapsed
